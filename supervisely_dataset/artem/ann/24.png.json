@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 1456242898,
+            "classId": 12001835,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "ivaaaqwerty1@gmail.com",
+            "createdAt": "2023-11-04T08:45:31.273Z",
+            "updatedAt": "2023-11-04T08:45:53.104Z",
+            "tags": [],
+            "classTitle": "artem",
+            "bitmap": {
+                "data": "eJwBVAOr/IlQTkcNChoKAAAADUlIRFIAAADlAAABTAEDAAAADmPpxwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAL8SURBVHic7do7btwwEAZgbbbYVGGbjshFwqNRN3CdKlfRTaLcgKUCEGKyelh8zPzi7oRwYESV4c+kyX8o7urRddmhw5j/KjpCmO5/MpB4DSH87G1wlHn9R8OvpYPiUGE/ZkL1q4a+VHMoMfIDiWHdIvU5XiIsh3WNNWAd+BETg7aobdo0a/vRIs06znvGbQPSW6YuUZVpWv9sQkkZ/DXDpAw2x2R15P2mEybaRlpiNOEvhDrUcTRhAqMpURrq9AK1iDHRvHrrsUepSB2qVJO6R2lIdVAnge4ryyKlw9h7Vs1U0+rRhHalcVtY9MrYlV4ZuzJhbKqgaqiGUQ8qVKcMrjlzYdQoF9WqXFQ1qgSqoRqoFiqHS85sVA11FipbwBP1grZtlV1W71TVf63SgDaG5aNdouZZRRvScpbxOkPFPd9HZdvoIFC0AbfUpmnwKFR+a5dp/2bKb+1tld9i76qg6qd1EKkCOgrUwTQcbDuJVDdSd6IK6AjTkOSMKyhZV3DjxzrDzQyrF+h0pjzer46f1vGNtOXHwr843/enDq5YiZ6eC4ZXf6b6WZ1lqpop2J+bKvhGcargW9CpgkV5rlaghlV8neLhlZeHV20eXv+eKx/ldKp8lBV3irAaTh28f+XgfbNF2carcnPalBnXuOpXiVpSh1U1VrrnTZVAmSz7TX9A/Q71BemVHtamH6AyU9qQmVKdkpvW67MY8mzBT2oOtVD1w3o8ElPNlAprqlQqSom6V6XKUKtUkbCOh1qoRqC61KFW1aPaH0qUsFqJInW1WhZp/ktaljB5hG8f0+SptIGqoapcXb0WZRjrtSjDEGsR5QNaBN0nah/SBIugU9VQVYrZGxo3qFlY2bsfF4F2WNM48ldhDNQ0DpdpGseY6RVqOqUh03RYhWqoN6gXqF299oXaSAtMBl1qlCXxPlKUZfHSUDIlQqN/7Ag90hoJPWbcU2r4IUejJjve46Kb7oFQb24txze6QNGw2abdJwuw04ae69bWjDx23efo59+fgZgUrrUobwAAAABJRU5ErkJgghvVmHQ=",
+                "origin": [
+                    176,
+                    59
+                ]
+            }
+        }
+    ]
+}
